@@ -3,7 +3,7 @@
 ## Instalaltion
 
 Install TPM:
-git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
+`git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm`
 
 Within tmux type <leader> + I 
 
